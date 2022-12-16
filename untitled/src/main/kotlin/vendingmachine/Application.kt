@@ -1,4 +1,5 @@
 package vendingmachine
 
-class Application {
+fun main(){
+
 }
